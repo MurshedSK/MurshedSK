@@ -1,9 +1,11 @@
 # Murshed SK
 
-**Quantum information physicist · Quantum error correction**<br>
+**Quantum information physicist · Quantum Error Correction · Superconductivity**<br>
 M2 Quantum Information for Physics, Sorbonne Université, Paris
 
 🌐 **[murshedsk.github.io](https://murshedsk.github.io)** &nbsp;|&nbsp; 📫 [murshedsk135@gmail.com](mailto:murshedsk135@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/murshed-sk/)
+
+
 [![My portfolio homepage, with the Wigner function of a GKP qubit](preview.png)](https://murshedsk.github.io)
 
 ---
