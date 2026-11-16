@@ -4,7 +4,7 @@
 M2 Quantum Information for Physics, Sorbonne Université, Paris
 
 🌐 **[murshedsk.github.io](https://murshedsk.github.io)** &nbsp;|&nbsp; 📫 [murshedsk135@gmail.com](mailto:murshedsk135@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/murshed-sk/)
-[![My portfolio homepage, with the Wigner function of a GKP qubit](assets/preview.jpg)](https://murshedsk.github.io)
+[![My portfolio homepage, with the Wigner function of a GKP qubit](preview.png)](https://murshedsk.github.io)
 
 ---
 
